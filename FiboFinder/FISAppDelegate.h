@@ -6,10 +6,11 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-/**
+
  
- * Declare your method here.
- 
- */
+- (NSUInteger)arrayWithFibonacciSequenceToIndex:(NSArray*)Index;
+
+
+
 
 @end
